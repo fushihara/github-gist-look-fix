@@ -1,0 +1,16 @@
+{
+  "name": "test-p",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "ts-loader": "^8.0.3",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
