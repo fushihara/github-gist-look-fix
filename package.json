@@ -1,6 +1,6 @@
 {
-  "name": "test-p",
-  "version": "0.1.0",
+  "name": "gits-github-look-fix",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "build": "webpack"

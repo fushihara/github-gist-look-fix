@@ -23,16 +23,9 @@ before
 
 # 使い方
 
-- ビルドをしてout/main.jsを作成
-- Tampermonkeyで指定。以下、指定サンプル
-
-```
-// ==UserScript==
-// @name         github markdown util
-// @require      file:///C:\xxxx\out\main.js
-// @noframes
-// ==/UserScript==
-```
+- ビルドをしてout/script.user.jsを作成
+- ファイルをTampermonkeyにコピペ
+- 設定からmatch、includeを設定
 
 
 # ビルド方法
